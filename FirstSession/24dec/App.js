@@ -1,3 +1,8 @@
+import React from "react"
+import { ReactDOM } from "react-dom/client"
+
+
+
 // this one is used for creating element by js 
 
 // const heading = document.createElement("h1")
